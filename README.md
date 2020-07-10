@@ -16,8 +16,7 @@ npm install --save dro-github-info
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'first-library'
-import 'dro-github-info/dist/index.css'
+import MyComponent from 'dro-github-info'
 
 class Example extends Component {
   render() {
