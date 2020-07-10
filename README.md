@@ -1,4 +1,5 @@
 # dro-github-info
+A simple React component that takes a GitHub username and displays the repos of that account
 
 > Made with create-react-library
 
