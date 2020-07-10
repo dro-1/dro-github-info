@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'first-library'
+import { GithubInfo } from 'first-library'
 import 'first-library/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <GithubInfo username='  AkinAguda' />
 }
 
 export default App
