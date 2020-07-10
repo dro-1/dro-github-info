@@ -1,13 +1,13 @@
-# dro-first-library
+# dro-github-info
 
 > Made with create-react-library
 
-[![NPM](https://img.shields.io/npm/v/first-library.svg)](https://www.npmjs.com/package/dro-first-library) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/first-library.svg)](https://www.npmjs.com/package/dro-github-info) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save dro-first-library
+npm install --save dro-github-info
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ npm install --save dro-first-library
 import React, { Component } from 'react'
 
 import MyComponent from 'first-library'
-import 'dro-first-library/dist/index.css'
+import 'dro-github-info/dist/index.css'
 
 class Example extends Component {
   render() {
