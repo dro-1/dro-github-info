@@ -1,4 +1,5 @@
 # dro-first-library
+A simple React component that takes a username and displays the repos of that account
 
 > Made with create-react-library
 
