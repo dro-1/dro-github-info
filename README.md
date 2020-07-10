@@ -1,4 +1,4 @@
-# first-library
+# dro-first-library
 
 > Made with create-react-library
 
@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save first-library
+npm install --save dro-first-library
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ npm install --save first-library
 import React, { Component } from 'react'
 
 import MyComponent from 'first-library'
-import 'first-library/dist/index.css'
+import 'dro-first-library/dist/index.css'
 
 class Example extends Component {
   render() {
