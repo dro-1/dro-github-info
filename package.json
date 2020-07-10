@@ -1,10 +1,10 @@
 {
-  "name": "dro-first-library",
+  "name": "dro-github-info",
   "version": "1.0.0",
   "description": "Made with create-react-library",
   "author": "dro-1",
   "license": "MIT",
-  "repository": "dro-1/first-library",
+  "repository": "dro-1/github-info",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
